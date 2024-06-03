@@ -1,6 +1,9 @@
 # Terminator-ZshConfig
 To use this Terminator's configuration:
+```
+mkdir -p ~/.config/terminator
 cp terminator ~/.config/terminator/config
+```
 
 
 To use this this Zsh configuration, install zsh first :
