@@ -6,7 +6,7 @@ cp terminator ~/.config/terminator/config
 ```
 
 
-To use this this Zsh configuration, install zsh first :
+To use this this Zsh configuration, install zsh first : <br>
 ```sudo apt install zsh ```
 
 
