@@ -4,7 +4,7 @@
 # Path to your oh-my-zsh installation.
 ZSH="/root/.oh-my-zsh"
 
-PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/tools/:/home/ayman/Documents/android-studio/bin/:/tools/android-platform-tools:/tools/aquatone"
+PATH="/home/ayman/.local/bin:/home/ayman/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/tools/"
 GOROOT="/usr/bin"
 HOME="/home/ayman"
 
