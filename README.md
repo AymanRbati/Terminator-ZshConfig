@@ -4,7 +4,7 @@ To use this Terminator's configuration:
 mkdir -p ~/.config/terminator
 cp terminator ~/.config/terminator/config
 ```
-
+Then go to "Terminator's settings > Profiles > default > colors > Background" and set the color to #152e41
 
 To use this this Zsh configuration, install zsh first : <br>
 ```sudo apt install zsh ```
